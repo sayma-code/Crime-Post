@@ -1,2 +1,2 @@
 # Crime-Post
-A basic Crud.
+First web project for University. A basic Crud with php
